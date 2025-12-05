@@ -1,7 +1,7 @@
 # EventPlanner
 
 Alumno: **Galván Morales Luis Enrique**  
-Ciclo: **4to ciclo – Programación Móvil**
+Seccion: **C24-A**
 
 EventPlanner es una app Android hecha con **Kotlin**, **Jetpack Compose**, **Firebase Authentication** y **Cloud Firestore**, usando **MVVM**. Cada usuario gestiona sus propios eventos en la nube.
 
@@ -32,3 +32,4 @@ EventPlanner es una app Android hecha con **Kotlin**, **Jetpack Compose**, **Fir
   - **Authentication**: Email/Password.
   - **Firestore**: colección `events`.
 - Reglas: solo usuarios autenticados y cada uno solo accede a sus propios eventos (`userId`).
+
