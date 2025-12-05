@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1988430638",
+    "project_id": "semana12-c4ec4",
+    "storage_bucket": "semana12-c4ec4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1988430638:android:262cd73b80bc28ebfe88bf",
+        "android_client_info": {
+          "package_name": "com.ejemplo.galvanmorales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQcbAaar7vW9L6oj1IWpeHK7suex2_NvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
